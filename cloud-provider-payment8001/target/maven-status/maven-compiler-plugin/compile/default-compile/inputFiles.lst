@@ -1,5 +1,5 @@
-/Users/uu/Documents/MyProjects/rabbitmq-day01/cloud/cloud-provider-payment8001/src/main/java/com/keke/springcloud/controller/PaymentController.java
-/Users/uu/Documents/MyProjects/rabbitmq-day01/cloud/cloud-provider-payment8001/src/main/java/com/keke/springcloud/service/PaymentService.java
-/Users/uu/Documents/MyProjects/rabbitmq-day01/cloud/cloud-provider-payment8001/src/main/java/com/keke/springcloud/dao/PaymentDao.java
-/Users/uu/Documents/MyProjects/rabbitmq-day01/cloud/cloud-provider-payment8001/src/main/java/com/keke/springcloud/service/impl/PaymentServiceImpl.java
-/Users/uu/Documents/MyProjects/rabbitmq-day01/cloud/cloud-provider-payment8001/src/main/java/com/keke/springcloud/PaymentMain8001.java
+/Users/uu/Desktop/springcloud_2020/cloud-provider-payment8001/src/main/java/com/keke/springcloud/service/PaymentService.java
+/Users/uu/Desktop/springcloud_2020/cloud-provider-payment8001/src/main/java/com/keke/springcloud/controller/PaymentController.java
+/Users/uu/Desktop/springcloud_2020/cloud-provider-payment8001/src/main/java/com/keke/springcloud/dao/PaymentDao.java
+/Users/uu/Desktop/springcloud_2020/cloud-provider-payment8001/src/main/java/com/keke/springcloud/service/impl/PaymentServiceImpl.java
+/Users/uu/Desktop/springcloud_2020/cloud-provider-payment8001/src/main/java/com/keke/springcloud/PaymentMain8001.java

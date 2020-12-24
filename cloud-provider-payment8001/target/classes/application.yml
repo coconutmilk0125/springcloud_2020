@@ -8,9 +8,8 @@ spring:
     encoding:
       force: true
       charset: UTF-8
-
   application:
-    name: cloud-payment-service
+    name: CLOUD-PAYMENT-SERVICE
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource  #当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver     #数据库驱动包
